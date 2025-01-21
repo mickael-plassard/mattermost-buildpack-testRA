@@ -1,6 +1,6 @@
 # mattermost-buildpack
 
-test
+test test test
 
 > This buildpack aims at installing a [Mattermost](https://mattermost.com) instance on [Scalingo](https://www.scalingo.com) and let you configure it at your convenance.
 
